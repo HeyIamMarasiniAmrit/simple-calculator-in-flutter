@@ -42,10 +42,10 @@ flutter run
 
 📂 Project Structure
 lib/
- ├── main.dart
- ├── components/
- ├── widgets/
- └── screens/
+ ── main.dart
+ ── components/
+ ── widgets/
+ ── screens/
 
 🤝 Contributing
 
