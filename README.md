@@ -28,7 +28,7 @@ Total Amount = Principal + Simple Interest
 
 (Add your screenshots here)
 
-ss //
+<img width="1591" height="823" alt="Image" src="https://github.com/user-attachments/assets/b08427ff-8cec-4d45-afe6-43d7065308f2" />
 
 🚀 Getting Started
 1️⃣ Clone this repo
