@@ -3,14 +3,60 @@
 A new Flutter project.
 
 ## Getting Started
+📱 Simple Interest Calculator – Flutter
 
-This project is a starting point for a Flutter application.
+A clean and beginner-friendly Flutter app that calculates Simple Interest instantly.
+Built using Flutter + Dart, this project is perfect for beginners learning UI, state management, and form handling.
 
-A few resources to get you started if this is your first Flutter project:
+✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Enter Principal, Rate of Interest, and Time
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Calculates Simple Interest (SI) and Total Amount
+
+Clean and responsive UI
+
+Validations to prevent empty input
+
+Lightweight and easy to customize
+
+🧮 Formula Used
+Simple Interest = (Principal × Rate × Time) / 100
+Total Amount = Principal + Simple Interest
+
+📸 Screenshots
+
+(Add your screenshots here)
+
+ss //
+
+🚀 Getting Started
+1️⃣ Clone this repo
+git clone https:/simple_interest_calculator.git
+
+2️⃣ Install dependencies
+flutter pub get
+
+3️⃣ Run the project
+flutter run
+
+📂 Project Structure
+lib/
+ ├── main.dart
+ ├── components/
+ ├── widgets/
+ └── screens/
+
+🤝 Contributing
+
+Pull requests are welcome!
+For major changes, please open an issue first.
+
+🧑‍💻 Author
+
+Amrit Marasini
+Flutter Developer | Tech Enthusiast
+
+⭐ Support
+
+If you like this project, don’t forget to star this repo ⭐!
